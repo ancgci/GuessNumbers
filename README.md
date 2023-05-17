@@ -3,7 +3,7 @@
 
 ## _ Guess Numbers é um jogo de lógica
 
-A Guess Numbers é um jogo para se descobrir um numero aleatório gerado pelo sistema. Fora desenvolvida em sua parté lógica somente no modulo JavaScript com edição de código já pré existentes do Html e CCS . Sob tutoria do [curso de Javascript](https://www.udemy.com/course/aprenda-javascript-em-7-dias) obtido na plataforma udemy. 
+[A Guess Numbers](https://main--dulcet-sopapillas-15f3e4.netlify.app/) é um jogo para se descobrir um numero aleatório gerado pelo sistema. Fora desenvolvida em sua parté lógica somente no modulo JavaScript com edição de código já pré existentes do Html e CCS . Sob tutoria do [curso de Javascript](https://www.udemy.com/course/aprenda-javascript-em-7-dias) obtido na plataforma udemy. 
 
 - Site Html 
 - CCS
